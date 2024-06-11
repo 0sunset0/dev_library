@@ -7,13 +7,3 @@
 /dataSources/
 /dataSources.local.xml
 
-/.idea/
-
-/build/
-/out/
-
-.DS_Store
-Thumbs.db
-
-*.log
-*.tmp
